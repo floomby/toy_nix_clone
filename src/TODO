@@ -1,0 +1,12 @@
+/**
+ * 1) figure out the stack smashing pro
+ * 2) figure out the rodata string constants
+ * 3) map kernel stuff upwards of 0x400000 into high memory
+ * 4) test memcpy
+ * 5) make keyboard driver
+ * 6) fix screen::putc
+ *
+ *
+ *
+ *
+ */
